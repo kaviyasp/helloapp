@@ -41,12 +41,12 @@ This project is a simple Spring Boot REST API application that demonstrates diff
 ```json
 {
   "firstName": "Kaviya",
-  "lastName": "S"
+  "lastName": "S P"
 }
 ```
 
 * Output:
-  `Hello Kaviya S from BridgeLabz`
+  `Hello Kaviya S P from BridgeLabz`
 
 ---
 
@@ -55,7 +55,7 @@ This project is a simple Spring Boot REST API application that demonstrates diff
 * Endpoint: `/hello/put/Kaviya?lastName=S`
 * Method: PUT
 * Output:
-  `Hello Kaviya S from BridgeLabz`
+  `Hello Kaviya S P from BridgeLabz`
 
 ---
 
@@ -113,5 +113,5 @@ http://localhost:8080/hello
 
 ## 👩‍💻 Author
 
-Kaviya S
+Kaviya
 
