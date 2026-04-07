@@ -6,6 +6,12 @@ This project is a simple Spring Boot REST API application that demonstrates diff
 
 ---
 
+> **Note:**  
+> The complete source code for this project is available in the `dev` branch.  
+> The `main` branch contains only project overview and documentation.
+
+---
+
 ## Features Implemented
 
 ### UC1 – Basic GET API
